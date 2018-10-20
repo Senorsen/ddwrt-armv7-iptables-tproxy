@@ -5,7 +5,6 @@ Enable JFFS partition on your router, and put these modules in /jffs.
 
 Then write a startup script:
 ```
-insmod /jffs/modules/nf_defrag_ipv6.ko
 insmod /jffs/modules/xt_comment.ko
 insmod /jffs/modules/xt_socket.ko
 insmod /jffs/modules/xt_TPROXY.ko
