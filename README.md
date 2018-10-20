@@ -1,5 +1,5 @@
 # ddwrt-armv7-iptables-tproxy
-TPROXY kernel module fies for DD-WRT armv7l (such as R6250, R6300v2, R7000, etc.), for shadowsocks redir UDP etc.
+TPROXY kernel module files for DD-WRT armv7l (such as R6250, R6300v2, R7000, etc.), for shadowsocks redir UDP etc.
 
 Enable JFFS partition on your router, and put these modules in /jffs.
 
