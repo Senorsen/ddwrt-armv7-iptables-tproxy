@@ -1,3 +1,3 @@
 xt_TPROXY.ko: nf_defrag_ipv4.ko nf_defrag_ipv6.ko
 xt_comment.ko:
-xt_socket.ko: nf_defrag_ipv6.ko nf_defrag_ipv4.ko
+xt_socket.ko: nf_defrag_ipv6.ko
