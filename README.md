@@ -22,5 +22,5 @@ opkg install iptables
 Enjoy it!
 
 Followed these build instructions: 
-- https://github.com/jamesmacwhite/ipset-netgear-r7000-dd-wrt/wiki/Compiling-the-xt\_set.ko-module
-- https://github.com/elatov/elatov.github.io/blob/master/\_posts/2015-07-21-compile-iptables-tee-module-for-dd-wrt.md
+- https://github.com/jamesmacwhite/ipset-netgear-r7000-dd-wrt/wiki/Compiling-the-xt_set.ko-module
+- https://github.com/elatov/elatov.github.io/blob/master/_posts/2015-07-21-compile-iptables-tee-module-for-dd-wrt.md
